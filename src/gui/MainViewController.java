@@ -29,12 +29,12 @@ public class MainViewController implements Initializable {
 	}
 
 	@FXML
-	public void onMenuItemAbourAction() {
-		System.out.println("onMenuItemAbourAction");
+	public void onMenuItemAboutAction() {
+		System.out.println("onMenuItemAboutAction");
 	}
 
 	@Override
-	public void initialize(URL uri, ResourceBundle rb) {
+	public void initialize(URL url, ResourceBundle rb) {
 	}
-
+	
 }
