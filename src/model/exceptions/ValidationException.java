@@ -1,4 +1,4 @@
-package model.excepitions;
+package model.exceptions;
 
 import java.util.HashMap;
 import java.util.Map;
