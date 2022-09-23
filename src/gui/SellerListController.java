@@ -123,7 +123,7 @@ public class SellerListController implements Initializable, DataChangeListener {
 
 			Stage dialogStage = new Stage();
 			// configuracao da nova form flutuante
-			dialogStage.setTitle("Enter Dpartment data");
+			dialogStage.setTitle("Enter Seller data");
 			dialogStage.setScene(new Scene(pane));
 			dialogStage.setResizable(false);
 			dialogStage.initOwner(parentStage);

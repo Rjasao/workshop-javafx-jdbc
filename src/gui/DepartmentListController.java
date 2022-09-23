@@ -106,7 +106,7 @@ public class DepartmentListController implements Initializable, DataChangeListen
 
 			Stage dialogStage = new Stage();
 			// configuracao da nova form flutuante
-			dialogStage.setTitle("Enter Dpartment data");
+			dialogStage.setTitle("Enter Department data");
 			dialogStage.setScene(new Scene(pane));
 			dialogStage.setResizable(false);
 			dialogStage.initOwner(parentStage);
