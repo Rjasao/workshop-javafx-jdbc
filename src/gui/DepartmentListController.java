@@ -36,7 +36,7 @@ public class DepartmentListController implements Initializable, DataChangeListen
 
 	private DepartmentService service; // injetar a dependencia sem ser forte
 
-	@FXML
+	@FXML   
 	private TableView<Department> tableViewDepartment;
 
 	@FXML
